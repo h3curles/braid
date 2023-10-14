@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add PR Summary step to Ultralytics Actions (#7675)
