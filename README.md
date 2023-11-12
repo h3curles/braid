@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix cmake requirements for ARM64 (#8589)
