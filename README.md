@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update OpenVINO INT8 export (#7515)
