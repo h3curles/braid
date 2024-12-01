@@ -1,0 +1,36 @@
+2024/12/01-15:40:30.219 1704 Creating DB C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\bfnaelmomeimhlpmgjnjophhpkkoljpa since it was missing.
+2024/12/01-15:40:30.225 1704 Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\bfnaelmomeimhlpmgjnjophhpkkoljpa/MANIFEST-000001
+=============== Dec 1, 2024 (+07) ===============
+16:00:24.684154 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:00:24.689751 version@stat F·[] S·0B[] Sc·[]
+16:00:24.689751 db@open opening
+16:00:24.689751 journal@recovery F·1
+16:00:24.691799 journal@recovery recovering @3
+16:00:24.710303 memdb@flush created L0@4 N·57 S·775KiB ".ph..ata,v51":"use..che,v35"
+16:00:24.718383 version@stat F·[1] S·775KiB[775KiB] Sc·[0.25]
+16:00:24.723382 db@janitor F·3 G·0
+16:00:24.723382 db@open done T·33.6309ms
+16:00:24.730443 db@close closing
+16:00:24.730443 db@close done T·0s
+=============== Dec 1, 2024 (+07) ===============
+16:24:19.672180 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:24:19.674577 version@stat F·[1] S·775KiB[775KiB] Sc·[0.25]
+16:24:19.674577 db@open opening
+16:24:19.674797 journal@recovery F·1
+16:24:19.681685 journal@recovery recovering @5
+16:24:19.682740 version@stat F·[1] S·775KiB[775KiB] Sc·[0.25]
+16:24:19.688563 db@janitor F·3 G·0
+16:24:19.688563 db@open done T·13.9862ms
+16:24:19.692094 db@close closing
+16:24:19.692094 db@close done T·0s
+=============== Dec 1, 2024 (+07) ===============
+17:11:38.980556 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:11:38.982729 version@stat F·[1] S·775KiB[775KiB] Sc·[0.25]
+17:11:38.982729 db@open opening
+17:11:38.982729 journal@recovery F·1
+17:11:38.982729 journal@recovery recovering @7
+17:11:38.984787 version@stat F·[1] S·775KiB[775KiB] Sc·[0.25]
+17:11:38.990206 db@janitor F·3 G·0
+17:11:38.990206 db@open done T·7.4761ms
+17:11:38.997165 db@close closing
+17:11:38.998206 db@close done T·1.0409ms
